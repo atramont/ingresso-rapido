@@ -9,11 +9,11 @@ Não foram consideradas informações de rodapé, nem diversas outras funcionali
 
 Foram colhidas sugestões baseadas em pequena amostragem de pesquisa realizada com pessoas físicas sobre suas experiências ao realizar compra de ingressos online em sites para esse fim. As respostas geraram as seguintes histórias de usuários:
 
-a. Como usuário, quero entrar no site apenas para comprar o ingresso do show que pretendo ir.
-b. Como usuário, quero encontrar facilmente o ingresso que desejo comprar.
-c. Como usuário, quero saber a faixa de valores (opções) dos ingressos.
-d. Como usuário, quero saber exatamente o valor que vou pagar antes de iniciar a compra.
-e. Como usuário, quero sugestões de eventos que se encaixem nas minhas preferências.
+a. Como usuário, quero entrar no site apenas para comprar o ingresso do show que pretendo ir.  
+b. Como usuário, quero encontrar facilmente o ingresso que desejo comprar.  
+c. Como usuário, quero saber a faixa de valores (opções) dos ingressos.  
+d. Como usuário, quero saber exatamente o valor que vou pagar antes de iniciar a compra.  
+e. Como usuário, quero sugestões de eventos que se encaixem nas minhas preferências.  
 
 Observação 1: Nem todas as dores identificadas nas respostas serão resolvidas na página de capa, porém podem ter solução nas páginas internas.
 
