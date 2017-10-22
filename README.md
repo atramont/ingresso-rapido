@@ -30,7 +30,7 @@ As respostas resultaram nas propostas abaixo e em como o novo layout as atende.
 **Proposta 3:** Dar ciência ao usuário sobre o valor da compra.  
 **Solução 3:** Exibir valor (ou faixa de valor) no botão de compra.
 
-**Proposta 4:** Melhorias de usabilidade
+**Proposta 4:** Melhorias de usabilidade  
 **Solução:** Alocar botão de logar, carrinho de compras e live chat em posições esperadas/conhecidas pelos usuários. As propostas anteriores também contemplam melhorias de usabilidade. O intuito é diminuir quantidade de cliques, tentar solucionar as dores ainda na homepage do site.
 
 As soluções previstas não se encerram no projeto gráfico. As funcionalidades sugeridas devem maximizar a usabilidade quando forem desenvolvidas. A barra de busca, por exemplo, deve contar com autossugestão. Os filtros de eventos devem ter busca concatenada entre eles. Os botões de comprar podem vir com opção de selecionar o valor do ingresso (meia, inteira, pista etc.) para criar menos passos entre a intenção e a efetivação da compra.
