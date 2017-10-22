@@ -21,13 +21,13 @@ Observação 2: Não foram criadas histórias de usuário na visão da empresa, 
 
 As respostas resultaram nas propostas abaixo e em como o novo layout as atende.
 
-Proposta 1: Facilitar o acesso ao evento que o usuário deseja comprar ingresso
+Proposta 1: Facilitar o acesso ao evento que o usuário deseja comprar ingresso.  
 Solução: Destacar o campo de busca a fim de captar a primeira atenção do usuário para que ele encontre rapidamente seu evento.
 
-Proposta 2: Remover o excesso de sugestões e recomendações aleatórias do site e dar controle do que será exibido ao usuário.
+Proposta 2: Remover o excesso de sugestões e recomendações aleatórias do site e dar controle do que será exibido ao usuário.  
 Solução: Exibir os eventos de destaque e permitir que o usuário exiba os eventos de seu interesse através de filtros de pequisa. Poderá evoluir para exibir recomendações baseadas em escolhas anteriores, caso o usuário esteja logado
 
-Proposta 3: Dar ciência ao usuário sobre o valor da compra.
+Proposta 3: Dar ciência ao usuário sobre o valor da compra.  
 Solução 3: Exibir valor (ou faixa de valor) no botão de compra.
 
 Proposta 4: Melhorias de usabilidade
