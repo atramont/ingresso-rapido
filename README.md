@@ -28,7 +28,7 @@ As respostas resultaram nas propostas abaixo e em como o novo layout as atende.
 **Solução:** Exibir os eventos de destaque e permitir que o usuário exiba os eventos de seu interesse através de filtros de pequisa. Poderá evoluir para exibir recomendações baseadas em escolhas anteriores, caso o usuário esteja logado.
 
 **Proposta 3:** Dar ciência ao usuário sobre o valor da compra.  
-**Solução 3:** Exibir valor (ou faixa de valor) no botão de compra.
+**Solução:** Exibir valor (ou faixa de valor) no botão de compra.
 
 **Proposta 4:** Melhorias de usabilidade  
 **Solução:** Alocar botão de logar, carrinho de compras e live chat em posições esperadas/conhecidas pelos usuários. As propostas anteriores também contemplam melhorias de usabilidade. O intuito é diminuir quantidade de cliques, tentar solucionar as dores ainda na homepage do site.
